@@ -1,0 +1,1 @@
+# goryd-landing-page
